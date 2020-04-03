@@ -253,7 +253,8 @@ input {
 /* HEADER SECTION */
 
 #h {
-  background: url(../img/platindien.jpg) no-repeat center top;
+  background: url(../img/bg.jpg) no-repeat center top;
+  border: blanchedalmond 1px solid;
   /* opacity: 0.5; */
   padding-top: 150px;
   text-align: center;
@@ -285,6 +286,7 @@ input {
   text-align: center;
   font-weight: 900;
 }
+
 
 /* FOOTER SECTION */
 
